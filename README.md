@@ -1,7 +1,8 @@
-# Terakota.live
+# [Terakota Live](https://www.terakota.live)!
 Terakota | Multi-Platform SAAS Solution
 
-# Admin and HealthCare-Manager | Waves Edition 1.1
+# Admin and HealthCare-Manager  
+## Waves Edition 1.1
 Healthcare and Hospital Administration and Management System - Terakota.live Copyright 2024
 
 The project files here is stable and set to run after cloning though only the shell and UI implementation is available.
