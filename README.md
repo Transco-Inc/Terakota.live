@@ -18,20 +18,25 @@ To launch,
 - use the `npm start` command to launch
 - make sure you have Node `^=16` installed before launch.
 
-
 <!--- Freemium is open sourced and healthcare enthusiast developers can email support@terakota.live with the subject
 'Becoming a Contributor' and your introduction, profile, portfolio, github e.t.c.  --->
-may wish to contribute, build or be a part of this journey are welcome on board. The project scope is large and various 
-parts require wide skills.
-There is 
-- ReactJS and Typescript handles the frontend so that's for frontend contributors
+## TECH
+- ReactJS and Typescript handles the frontend 
 - MaterialUI library in place  
-- State management with Redux currently.
+- State management with Redux Toolkit 
 - NodeJS for the backend management - yarn & npm
-- ElectronJS for the shell management | Its less of a language and more of a style to adapt to with its methods to enable you tap into native functionalities. See documentation. 
+- ElectronJS for the Cross-platform shell management | Electron is less of a language and more of a style to adapt to with its methods to enable you tap into native functionalities. 
+Some features only applicable to PRO versions. See documentation. 
 
+## DOCUMENTATION
+
+## DOCUMENTATION
+See documentaiton for license details, package, components, feature delineation and more information.
 <!--- Official contribution will elicit an invitation to any of our managed channels. To see user stories, current issues  potential Flutter|PWA| for mobile implentation and the roadmap, e.t.c. see documentation --->
 
-This project belongs to Terakota.live Inc., a SPV tool owned by Intacata.org. A force for creation. Good intent is welcome. Unlawful adaptation, modification or piration is forbidden. 
+## CONTACT US
+Email: [support@terakota.live](mailto:support@terakota.live?subject=Test)
+
+<!--- This project belongs to Terakota.live Inc., a SPV tool owned by Intacata.org. A force for creation. Good intent is welcome. Unlawful adaptation, modification or piration is forbidden. --->
 <!--- This is currently under the custody and curation of Gabriel Onike. Custodian | Gatekeeper Privileges --->
 
