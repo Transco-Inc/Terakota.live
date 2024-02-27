@@ -15,8 +15,7 @@ To launch,
 - clone the Master
 - open your the IDE and navigate to the projects root folder in your Terminal
 - use the `npm start` command to launch
-- If you see any error, use the OK button to move ahead with App launch
-- make sure you have Node installed before launch.
+- make sure you have Node `^=16` installed before launch.
 
 
 <!--- Freemium is open sourced and healthcare enthusiast developers can email support@terakota.live with the subject
