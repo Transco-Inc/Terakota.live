@@ -1,4 +1,4 @@
-# [Terakota Live](https://www.terakota.live)!
+# [Terakota Live](https://www.terakota.live)
 Terakota | Multi-Platform SAAS Solution
 
 # Admin and HealthCare-Manager  
