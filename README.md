@@ -26,11 +26,9 @@ To launch,
 - State management with Redux Toolkit 
 - NodeJS for the backend management - yarn & npm
 - ElectronJS for the Cross-platform shell management | Electron is less of a language and more of a style to adapt to with its methods to enable you tap into native functionalities. 
-Some features only applicable to PRO versions. See documentation. 
+### Some features only applicable to PRO versions. See documentation. 
 
-## DOCUMENTATION
-
-## DOCUMENTATION
+## [DOCUMENTATION](https://www.terakota.live/documentation)
 See documentaiton for license details, package, components, feature delineation and more information.
 <!--- Official contribution will elicit an invitation to any of our managed channels. To see user stories, current issues  potential Flutter|PWA| for mobile implentation and the roadmap, e.t.c. see documentation --->
 
